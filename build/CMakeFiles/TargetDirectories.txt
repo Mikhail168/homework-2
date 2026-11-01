@@ -1,0 +1,3 @@
+/home/zhangyunzhe/桌面/c++/build/CMakeFiles/yaml_demo.dir
+/home/zhangyunzhe/桌面/c++/build/CMakeFiles/edit_cache.dir
+/home/zhangyunzhe/桌面/c++/build/CMakeFiles/rebuild_cache.dir

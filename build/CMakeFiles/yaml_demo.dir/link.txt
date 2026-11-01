@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/yaml_demo.dir/作业1.cpp.o -o yaml_demo  /usr/local/lib/libyaml-cpp.a 
